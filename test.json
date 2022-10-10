@@ -1,0 +1,65 @@
+[
+  {
+    "category": "Geography",
+    "id": "62602d4b4b176d54800e3c8d",
+    "correctAnswer": "Israel",
+    "incorrectAnswers": ["Lebanon", "Egypt", "Qatar"],
+    "question": "In which country is the city of Tel Aviv?",
+    "tags": ["cities", "geography"],
+    "type": "Multiple Choice",
+    "difficulty": "easy",
+    "regions": []
+  },
+  {
+    "category": "History",
+    "id": "622a1c377cc59eab6f95042a",
+    "correctAnswer": "Alaska",
+    "incorrectAnswers": ["Hawaii", "Puerto Rico", "New Mexico"],
+    "question": "In America, what became the 49th state to enter the union in 1959?",
+    "tags": ["usa", "us_states", "1950's", "history"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": []
+  },
+  {
+    "category": "Science",
+    "id": "6242cb7ad543524f1b19c932",
+    "correctAnswer": "A litter",
+    "incorrectAnswers": ["A swarm", "A flight", "A watch"],
+    "question": "What is the word for a group of pigs?",
+    "tags": ["science"],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": []
+  },
+  {
+    "category": "Film & TV",
+    "id": "622a1c347cc59eab6f94fb2d",
+    "correctAnswer": "The Artist",
+    "incorrectAnswers": [
+      "The Descendants",
+      "Extremely Loud & Incredibly Close",
+      "The Help"
+    ],
+    "question": "Which film won the Academy Award for Best Picture in 2011?",
+    "tags": ["academy_awards", "film"],
+    "type": "Multiple Choice",
+    "difficulty": "hard",
+    "regions": []
+  },
+  {
+    "category": "Science",
+    "id": "622a1c377cc59eab6f950535",
+    "correctAnswer": "study of refuse and trash",
+    "incorrectAnswers": [
+      "childbirth, sometimes spelled",
+      "male health and disease",
+      "the writings and practices of historians"
+    ],
+    "question": "What is Garbology the study of?",
+    "tags": ["words", "science"],
+    "type": "Multiple Choice",
+    "difficulty": "medium",
+    "regions": []
+  }
+]
